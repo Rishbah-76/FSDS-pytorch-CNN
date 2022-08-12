@@ -1,3 +1,4 @@
+#!/bin/bash
 echo [$(date)]: "START"
 echo [$(date)]: "creating environment"
 conda create --prefix ./env python=3.7 -y
