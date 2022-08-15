@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 notebook/FashionMNISTDir/*
+
+notebook/FashionMNISTDir/FashionMNIST
+notebook/FashionMNISTDir/FashionMNIST/raw/t10k*
